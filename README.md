@@ -2,10 +2,10 @@
 
 
 
-### 1. coursera lecture
+### 1. Coursera Lecture Practices
 
-### 2. 
+### 2. BaseLine Models
 
-### 3. 
+### 3. Book Practices
 
-### 4. 
+### 4. Lecture Practices(ex Coursera)
