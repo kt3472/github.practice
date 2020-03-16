@@ -1,3 +1,9 @@
-# 오늘의 깃허브
+# odds and ends
 
-# 오늘은 깃헙을 배우는 날이다
+## 1. coursera lecture
+
+## 2. 
+
+## 3. 
+
+## 4. 
