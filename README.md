@@ -2,18 +2,13 @@
 
 
 
-### 1. Coursera Lecture Practices
+**1. Coursera Lecture Practices (./coursera_finace_exam)**
 
 
-
-### 2. BaseLine Models
-
+**2. convolutional neural networks study**
 
 
-### 3. Book Practices
+**3. tensorflow study**
 
-
-
-### 4. Lecture Practices(ex Coursera)
 
 
