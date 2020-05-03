@@ -5,10 +5,13 @@
 **1. Coursera Lecture Practices (./coursera_finace_exam)**
 
 
-**2. convolutional neural networks study**
+**2. Convolutional neural networks study**
 
 
-**3. tensorflow study**
+**3. Tensorflow study**
+
+
+**4. Long Short-Term Memory models study**
 
 
 
