@@ -14,7 +14,10 @@
 **4. Tensorflow study**
 
 
-**5. Long Short-Term Memory models study**
+**5. Keras study**
+
+
+**6. Long Short-Term Memory models study**
 
 
 
