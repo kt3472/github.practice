@@ -17,7 +17,7 @@
 **5. Keras study**
 
 
-**6. Long Short-Term Memory models study**
+**6. RNN & LSTM models study**
 
 
 
