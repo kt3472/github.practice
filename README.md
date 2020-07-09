@@ -23,7 +23,10 @@
 **7. Crawling**
 
 
-**8. ETC.**
+**8. [Book review] Machine Learning Cookbook**
+
+
+**9. ETC.**
 
 
 
