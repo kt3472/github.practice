@@ -26,7 +26,10 @@
 **8. [Book review] Machine Learning Cookbook**
 
 
-**9. ETC.**
+**9. [Book review] Artificial intelligence with python**
+
+
+**10. ETC.**
 
 
 
