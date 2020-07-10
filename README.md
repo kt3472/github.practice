@@ -29,6 +29,9 @@
 **9. [Book review] Artificial intelligence with python**
 
 
+**10. [Book review] 데이터 전처리 대전**
+
+
 **10. ETC.**
 
 
