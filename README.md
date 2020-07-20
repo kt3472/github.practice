@@ -35,7 +35,10 @@
 **11. [Book review] 데이터 과학을 위한 통계**
 
 
-**12. MYSQL Study**
+**12. 키워드 추출(Keyword Extraction)**
+
+
+**13. MYSQL Study**
 
 
 **13. ETC.**
