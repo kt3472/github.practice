@@ -3,6 +3,7 @@ library(dplyr)
 library(lmPerm)
 
 click_rate <-  read.csv('./data/click_rates.csv')
+imanishi <-  read.csv('./data/imanishi_data.csv')
 
 ## Chi square test
 
