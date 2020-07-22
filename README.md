@@ -41,10 +41,10 @@
 **13. 문서요약(doc_summarization)**
 
 
-**13. MYSQL Study**
+**14. MYSQL Study**
 
 
-**14. ETC.**
+**15. ETC.**
 
 
 
