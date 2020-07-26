@@ -44,10 +44,10 @@
 **14. Naive bayes text classification**
 
 
-**14. MYSQL Study**
+**15. MYSQL Study**
 
 
-**15. ETC.**
+**16. ETC.**
 
 
 
