@@ -41,6 +41,9 @@
 **13. 문서요약(doc_summarization)**
 
 
+**14. Naive bayes text classification**
+
+
 **14. MYSQL Study**
 
 
