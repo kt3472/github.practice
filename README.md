@@ -44,10 +44,13 @@
 **14. Naive bayes text classification**
 
 
-**15. MYSQL Study**
+**15. Cosin Similarity**
 
 
-**16. ETC.**
+**16. MYSQL Study**
+
+
+**17. ETC.**
 
 
 
