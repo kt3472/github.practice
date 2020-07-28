@@ -47,10 +47,7 @@
 **15. Cosin Similarity**
 
 
-**16. MYSQL Study**
-
-
-**17. ETC.**
+**16. ETC.**
 
 
 
