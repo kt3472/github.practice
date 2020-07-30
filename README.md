@@ -50,7 +50,10 @@
 **16. Spam mail classicification(CNN 1D)**
 
 
-**17. ETC.**
+**17. movie rating sentiment analysis**
+
+
+**18. ETC.**
 
 
 
