@@ -47,6 +47,9 @@
 **15. Cosin Similarity**
 
 
+**16. Spam mail classicification(CNN 1D)**
+
+
 **16. ETC.**
 
 
