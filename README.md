@@ -53,10 +53,10 @@
 **17. movie rating sentiment analysis**
 
 
-**17. movie rating sentiment analysis(Multi-kernel CNN 1D)**
+**18. movie rating sentiment analysis(Multi-kernel CNN 1D)**
 
 
-**18. ETC.**
+**19. ETC.**
 
 
 
