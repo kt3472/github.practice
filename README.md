@@ -56,7 +56,10 @@
 **18. movie rating sentiment analysis(Multi-kernel CNN 1D)**
 
 
-**19. ETC.**
+**19. translator(seq2seq)**
+
+
+**20. ETC.**
 
 
 
