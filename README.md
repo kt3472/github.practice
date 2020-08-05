@@ -59,10 +59,10 @@
 **19. translator(seq2seq)**
 
 
-**20. TF-IDF**
+**21. TF-IDF**
 
 
-**20. ETC.**
+**22. ETC.**
 
 
 
