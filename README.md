@@ -65,7 +65,7 @@
 **22. LSA(Latent Semantic Analysis)**
 
 
-**22. ETC.**
+**23. ETC.**
 
 
 
