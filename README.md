@@ -62,6 +62,9 @@
 **21. TF-IDF**
 
 
+**22. LSA(Latent Semantic Analysis)**
+
+
 **22. ETC.**
 
 
