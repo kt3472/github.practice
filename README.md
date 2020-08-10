@@ -68,6 +68,9 @@
 **23. Text generation_RNN**
 
 
+**24. Char RNNLM**
+
+
 **24. ETC.**
 
 
