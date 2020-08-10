@@ -68,7 +68,7 @@
 **23. Text generation_RNN**
 
 
-**23. ETC.**
+**24. ETC.**
 
 
 
