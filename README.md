@@ -65,6 +65,9 @@
 **22. LSA(Latent Semantic Analysis)**
 
 
+**23. Text generation_RNN**
+
+
 **23. ETC.**
 
 
