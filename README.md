@@ -71,6 +71,9 @@
 **24. Char RNNLM**
 
 
+**25. 한국어 Word2Vec_wikipedia
+
+
 **25. ETC.**
 
 
