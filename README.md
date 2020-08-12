@@ -74,7 +74,7 @@
 **25. 한국어 Word2Vec_wikipedia
 
 
-**25. ETC.**
+**26. ETC.**
 
 
 
