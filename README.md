@@ -74,10 +74,10 @@
 **25. 한국어 Word2Vec_wikipedia**
 
 
-**25. twitter crawing**
+**26. twitter crawing**
 
 
-**26. ETC.**
+**27. ETC.**
 
 
 
